@@ -1,1 +1,4 @@
 packages
+hackwars/obj
+hackwars/bin
+.vs
